@@ -1,0 +1,25 @@
+{
+  "name": "bmc-academia",
+  "version": "1.0.0",
+  "description": "Interactive Study & AI Learning Platform for Butwal Multiple Campus (TU) Students",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "bmc",
+    "tribhuvan-university",
+    "butwal-multiple-campus",
+    "csit",
+    "bba",
+    "bicte",
+    "llb",
+    "active-recall",
+    "flashcards",
+    "study-platform"
+  ],
+  "author": "",
+  "license": "MIT"
+}
